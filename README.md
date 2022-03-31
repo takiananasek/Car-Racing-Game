@@ -1,7 +1,7 @@
 # Car-Racing-Game
 Windows Form Application. Simple game where the player has to avoid enemies and collect coins. The game ends when a player hits the enemy car.
 
-⬆⬇ steering the car with up and down keys.
+⬆⬇ steering the car with keyboard, speeding up and slowing down when needed
 
 ⛔When the car crashes the enemy, the game ends. 
 
